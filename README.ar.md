@@ -14,19 +14,23 @@
 
 ---
 
-<img align="right" width="180" alt="الصورة المهنية لأحمد إبراهيم من موقع ملف الأعمال" src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" />
-
 ## نبذة مهنية
 
-أعمل في مجال **نظم المعلومات الجغرافية للبنية التحتية، والتصميم والرسم الهيدرولوجي، والإخراج الكارتوجرافي، وتطوير البرمجيات الجغرافية**، مع الربط بين بيانات الرفع المساحي والنماذج الهيدروليكية وبرامج الرسم الهندسي وقواعد البيانات المكانية.
-
-تشمل خبراتي إعداد شبكات تصريف مياه الأمطار والسيول وخفض المياه الجوفية، وتحويل بيانات **SewerGEMS وStormCAD** إلى مخرجات مناسبة لبرامج **InfraWizard وAutoCAD وCivil 3D**، ثم تنظيمها وتحليلها داخل **ArcGIS وQGIS**.
-
-تعرض <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/">صفحتي المهنية التفاعلية</a> تفاصيل المشروعات والخبرات في **مصر والمملكة العربية السعودية**، بينما تضم مستودعات GitHub أدوات GIS وبرمجيات الأتمتة والخرائط التي أطورها.
-
-**الأقسام المهنية:** [الخبرة العملية](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience) · [المشروعات الهندسية](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects) · [المؤلفات والأطالس](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications) · [التعليم والتدريب](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education)
-
-<br clear="all" />
+<table>
+  <tbody>
+    <tr>
+      <td width="74%" valign="top" dir="rtl">
+        <p>أعمل في مجال <strong>نظم المعلومات الجغرافية للبنية التحتية، والتصميم والرسم الهيدرولوجي، والإخراج الكارتوجرافي، وتطوير البرمجيات الجغرافية</strong>، مع الربط بين بيانات الرفع المساحي والنماذج الهيدروليكية وبرامج الرسم الهندسي وقواعد البيانات المكانية.</p>
+        <p>تشمل خبراتي إعداد شبكات تصريف مياه الأمطار والسيول وخفض المياه الجوفية، وتحويل بيانات <strong>SewerGEMS وStormCAD</strong> إلى مخرجات مناسبة لبرامج <strong>InfraWizard وAutoCAD وCivil 3D</strong>، ثم تنظيمها وتحليلها داخل <strong>ArcGIS وQGIS</strong>.</p>
+        <p>تعرض <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/">صفحتي المهنية التفاعلية</a> تفاصيل المشروعات والخبرات في <strong>مصر والمملكة العربية السعودية</strong>، بينما تضم مستودعات GitHub أدوات GIS وبرمجيات الأتمتة والخرائط التي أطورها.</p>
+        <p><strong>الأقسام المهنية:</strong> <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience">الخبرة العملية</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects">المشروعات الهندسية</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications">المؤلفات والأطالس</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education">التعليم والتدريب</a></p>
+      </td>
+      <td width="26%" valign="top" align="center">
+        <img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="الصورة المهنية لأحمد إبراهيم" width="160" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## الخبرات والمؤهلات المهنية
 

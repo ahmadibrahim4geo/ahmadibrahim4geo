@@ -2,51 +2,72 @@
 
 # أحمد إبراهيم | Ahmad Ibrahim
 
-**أخصائي نظم معلومات جغرافية · مطوّر تطبيقات GIS · الاستشعار عن بُعد · نظم معلومات البنية التحتية**
+**أخصائي نظم معلومات جغرافية · رسام هيدرولوجي · مطور تطبيقات نظم المعلومات الجغرافية**
 
-*تطوير أدوات وتطبيقات مكانية وعلمية مفتوحة المصدر، مع الاهتمام بدقة النتائج والتوثيق.*
+**GIS Specialist · Hydrological Draftsman · Geospatial Software Developer**
 
-[**ملف الأعمال والسيرة الذاتية**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [**المشروعات**](https://github.com/ahmadibrahim4geo?tab=repositories) · [**البريد الإلكتروني**](mailto:ahmadibrahim.geo@gmail.com) · [**English**](README.md)
+*نظم معلومات البنية التحتية · شبكات تصريف مياه الأمطار والسيول · الاستشعار عن بُعد · الأطالس · البرمجيات مفتوحة المصدر*
+
+[**ملف الأعمال المهني**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [**عرض السيرة الذاتية PDF**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [**لينكدإن**](https://www.linkedin.com/in/ahmadibrahim4geo/) · [**English**](README.md)
 
 </div>
 
 ---
 
-## نبذة عني
+<img align="right" width="180" alt="الصورة المهنية لأحمد إبراهيم من موقع ملف الأعمال" src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" />
 
-أعمل على تطوير حلول نظم المعلومات الجغرافية والاستشعار عن بُعد، وربط التحليل المكاني بالبيانات العلمية والتطبيقات العملية. تشمل مجالات عملي **ArcGIS Pro وArcMap وQGIS وPython/ArcPy وبرمجة تطبيقات GIS المكتبية والتحليل التضاريسي والمناخي وتطبيقات البنية التحتية**.
+## نبذة مهنية
 
-أهتم بأن تكون البيانات موثقة المصادر، والمخرجات قابلة لإعادة الإنتاج والتحقق، والأدوات واضحة وسهلة الاستخدام، مع الاهتمام باختبار البرمجيات ودعم اللغة العربية والإنجليزية.
+أعمل في مجال **نظم المعلومات الجغرافية للبنية التحتية، والتصميم والرسم الهيدرولوجي، والإخراج الكارتوجرافي، وتطوير البرمجيات الجغرافية**، مع الربط بين بيانات الرفع المساحي والنماذج الهيدروليكية وبرامج الرسم الهندسي وقواعد البيانات المكانية.
 
-## مشروعات نظم المعلومات الجغرافية المميزة
+تشمل خبراتي إعداد شبكات تصريف مياه الأمطار والسيول وخفض المياه الجوفية، وتحويل بيانات **SewerGEMS وStormCAD** إلى مخرجات مناسبة لبرامج **InfraWizard وAutoCAD وCivil 3D**، ثم تنظيمها وتحليلها داخل **ArcGIS وQGIS**.
 
-| المشروع | التخصص | الروابط |
-| :--- | :--- | :--- |
-| **مِرصاد MIRSAD** | بيانات المناخ ومحطات الرصد والأطالس المكانية وأدوات ArcGIS، مع تطوير تطبيق مكتبي تجريبي | [المستودع](https://github.com/ahmadibrahim4geo/MIRSAD) · [الموقع](https://ahmadibrahim4geo.github.io/MIRSAD/) |
-| **Z EARTH** | تطوير برنامج Windows للخرائط والكرة الأرضية ثلاثية الأبعاد وملفات KML/KMZ؛ **نسخة تطوير تجريبية** | [المستودع](https://github.com/ahmadibrahim4geo/Z-EARTH) |
-| **GIS Development Skills** | مهارات ومراجع مفتوحة المصدر لتطوير برمجيات GIS والتحقق من النتائج | [المستودع](https://github.com/ahmadibrahim4geo/GIS-Development-Skills) · [الموقع](https://ahmadibrahim4geo.github.io/GIS-Development-Skills/) |
-| **دليل مصادر البيانات الجغرافية** | فهرس لمصادر البيانات المكانية والصور الفضائية ونماذج الارتفاعات الرقمية | [المستودع](https://github.com/ahmadibrahim4geo/gis-data-repositories-professional-2026) · [الموقع](https://ahmadibrahim4geo.github.io/gis-data-repositories-professional-2026/) |
-| **أداة القطاعات الجيولوجية** | معالجة القطاعات الجيولوجية وإخراجها باستخدام ArcGIS | [المستودع](https://github.com/ahmadibrahim4geo/GeologicalCrossSectionToolbox) |
-| **مكتبة رموز ArcMap** | أنماط ورموز للإخراج الكارتوجرافي، مع مراعاة تراخيص المصادر الأصلية | [المستودع](https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection) · [الموقع](https://ahmadibrahim4geo.github.io/ArcMap-Style-Collection/) |
+تعرض <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/">صفحتي المهنية التفاعلية</a> تفاصيل المشروعات والخبرات في **مصر والمملكة العربية السعودية**، بينما تضم مستودعات GitHub أدوات GIS وبرمجيات الأتمتة والخرائط التي أطورها.
 
-## التخصصات والمهارات التقنية
+**الأقسام المهنية:** [الخبرة العملية](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience) · [المشروعات الهندسية](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects) · [المؤلفات والأطالس](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications) · [التعليم والتدريب](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education)
 
-| نظم المعلومات الجغرافية والتحليل العلمي | تطوير التطبيقات والتمثيل المرئي |
+<br clear="all" />
+
+## الخبرات والمؤهلات المهنية
+
+| المجال | أبرز الخبرات والمؤهلات |
 | :--- | :--- |
-| ArcGIS Pro · ArcMap · ArcPy · QGIS | Python · C# · .NET/WPF · JavaScript |
-| الاستشعار عن بُعد · DEM · تحليل التضاريس | CesiumJS · WebView2 · خرائط ثنائية وثلاثية الأبعاد |
-| بيانات المناخ · الاستيفاء المكاني · الكارتوجرافيا | KML/KMZ · GDAL/PROJ · أتمتة العمليات |
-| نظم معلومات البنية التحتية · الهيدرولوجيا · CAD-to-GIS | الاختبارات · التوثيق · واجهات عربية وإنجليزية |
+| **GIS والرسم الهيدرولوجي** | شبكات تصريف الأمطار والسيول وخفض المياه الجوفية، القطاعات الطولية، مراجعة الشبكات، وتحويل الرسومات الهندسية إلى قواعد بيانات GIS |
+| **مشروعات البنية التحتية** | أعمال موثقة في البورتفوليو بمشروعات شبكات تصريف الأمطار والمياه الجوفية بمحافظة جدة، ومهام جيوماتكس وبنية تحتية في مصر |
+| **الخبرة العملية** | أخصائي GIS والرسم الهيدرولوجي لدى Vision Dimensions Engineering Consultancy من أكتوبر 2021 حتى ديسمبر 2024، مع خبرة عمل حر سابقة |
+| **التخطيط العمراني** | مساعد خبير مسجل بالهيئة العامة للتخطيط العمراني (GOPP)، بحسب بيانات [ملف الأعمال](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) |
+| **التعليم** | ليسانس الآداب، قسم الجغرافيا، تخصص الخرائط ونظم المعلومات الجغرافية، جامعة القاهرة (2018) |
+| **التأليف العلمي** | مؤلف **ستة أطالس جغرافية** مذكورة بتفاصيل تسجيلها ضمن [صفحة المؤلفات](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications) |
 
-## مشروعات برمجية أخرى
+## مشروعات GIS والبرمجيات مفتوحة المصدر
 
-أطوّر كذلك أدوات مكتبية وهندسية متنوعة، مثل [RoboTransfer](https://github.com/ahmadibrahim4geo/RoboTransfer) و[SmartCalculator](https://github.com/ahmadibrahim4geo/SmartCalculator) و[Create FlowArrow Tool](https://github.com/ahmadibrahim4geo/Create-FlowArrow-Tool) و[لوحة حساب تصريف مياه الأمطار](https://github.com/ahmadibrahim4geo/Storm_Drainage_Calculation_dashboard).
+| المشروع | التعريف | الرابط |
+| :--- | :--- | :--- |
+| **مرصاد MIRSAD** | بيانات المناخ ومحطات الرصد وأدوات إنتاج الأطالس داخل ArcGIS، مع تطوير برامج مناخية مستقلة | [المستودع](https://github.com/ahmadibrahim4geo/MIRSAD) |
+| **Z EARTH** | برنامج GIS مكتبي وكرة أرضية ثلاثية الأبعاد باستخدام WPF وCesiumJS وWebView2؛ **نسخة تطوير تجريبية** | [المستودع](https://github.com/ahmadibrahim4geo/Z-EARTH) |
+| **GIS Development Skills** | مهارات التطوير الجغرافي ومراجع البرمجة والاختبار وسير العمل الموثق | [المستودع](https://github.com/ahmadibrahim4geo/GIS-Development-Skills) · [الموقع](https://ahmadibrahim4geo.github.io/GIS-Development-Skills/) |
+| **دليل مصادر البيانات الجغرافية** | دليل ثنائي اللغة للبيانات المكانية والصور الفضائية ونماذج الارتفاعات | [المستودع](https://github.com/ahmadibrahim4geo/gis-data-repositories-professional-2026) |
+| **أداة القطاعات الجيولوجية** | أدوات إنتاج القطاعات الجيولوجية باستخدام ArcGIS | [المستودع](https://github.com/ahmadibrahim4geo/GeologicalCrossSectionToolbox) |
+| **مكتبة أنماط ArcMap** | رموز وأساليب الإخراج الكارتوجرافي مع الحفاظ على تراخيص المكونات الأصلية | [المستودع](https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection) |
 
-## التعاون والمشاركة
+## المهارات التقنية
 
-أرحّب **بالتعاون البحثي والتقني، والملاحظات العلمية، ومقترحات التطوير، وبلاغات الأخطاء القابلة لإعادة الاختبار والمساهمات مفتوحة المصدر**. يمكن المشاركة عبر Issues أو Discussions داخل كل مشروع.
+| نظم المعلومات الجغرافية والعلوم المكانية | البنية التحتية وتطوير البرمجيات |
+| :--- | :--- |
+| ArcGIS Pro · ArcMap · ArcPy · QGIS | InfraWizard · SewerGEMS · StormCAD |
+| الاستشعار عن بُعد · DEM · الأطالس | AutoCAD · Civil 3D · CAD-to-GIS |
+| التحليل المكاني · الهيدرولوجيا · GDAL/PROJ | Python · C#/.NET/WPF · JavaScript · CesiumJS |
+| GeoJSON · KML/KMZ · Geodatabases | SQLite · أتمتة الأعمال · اختبارات GIS |
 
-يرجى مراجعة متطلبات كل مستودع وترخيصه وحالة تطويره قبل استخدام الملفات أو إعادة توزيعها. **إتاحة الكود علنًا أو نجاح الاختبارات الآلية لا يعنيان بالضرورة أن التطبيق إصدار إنتاجي مستقر.** وقد تختلف تراخيص البيانات الجغرافية والخدمات والرموز والمكونات الخارجية عن ترخيص الكود.
+## السيرة الذاتية والمشاركة
+
+للاطلاع على **التفاصيل الكاملة للخبرات والمشروعات والتدريب والأطالس**، استخدم [البورتفوليو العربي والإنجليزي](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/).
+
+[**فتح السيرة الذاتية في المتصفح (PDF)**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [**ملف PDF داخل المستودع**](https://github.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/blob/main/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [**البريد الإلكتروني**](mailto:ahmadibrahim.geo@gmail.com)
+
+ومن أدواتي الأخرى: [RoboTransfer](https://github.com/ahmadibrahim4geo/RoboTransfer) · [SmartCalculator](https://github.com/ahmadibrahim4geo/SmartCalculator) · [لوحة حساب شبكات تصريف الأمطار](https://github.com/ahmadibrahim4geo/Storm_Drainage_Calculation_dashboard).
+
+أرحب بالتعاون البحثي والتقني ومقترحات تطوير الأدوات الجغرافية. يُرجى مراجعة ترخيص كل مستودع وحالة إصداره وحقوق المكونات الخارجية قبل استخدام البرمجيات أو إعادة توزيعها.
 
 ---
 
@@ -54,6 +75,6 @@
 
 **أحمد إبراهيم · Ahmad Ibrahim**
 
-[ملف الأعمال](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [البريد الإلكتروني](mailto:ahmadibrahim.geo@gmail.com) · [English](README.md)
+[ملف الأعمال](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [عرض CV](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [لينكدإن](https://www.linkedin.com/in/ahmadibrahim4geo/) · [English](README.md)
 
 </div>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ahmed Ibrahim | أحمد إبراهيم
+# Ahmad Ibrahim | أحمد إبراهيم
 
 **GIS Specialist · Geospatial Software Developer · Remote Sensing · Infrastructure GIS**
 
@@ -54,7 +54,7 @@ Each repository documents its own requirements, license and development status. 
 
 <div align="center">
 
-**Ahmed Ibrahim · أحمد إبراهيم**
+**Ahmad Ibrahim · أحمد إبراهيم**
 
 [Portfolio](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [Email](mailto:ahmadibrahim.geo@gmail.com) · [Arabic profile / النسخة العربية](README.ar.md)
 

@@ -26,7 +26,17 @@
         <p><strong>الأقسام المهنية:</strong> <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience">الخبرة العملية</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects">المشروعات الهندسية</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications">المؤلفات والأطالس</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education">التعليم والتدريب</a></p>
       </td>
       <td width="26%" valign="top" align="center">
-        <img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="الصورة المهنية لأحمد إبراهيم" width="160" />
+        <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/"><img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="الصورة المهنية لأحمد إبراهيم" width="160" /></a>
+        <table width="100%">
+          <tbody>
+            <tr>
+              <td align="center"><strong>5+</strong><br /><sub>سنوات</sub></td>
+              <td align="center"><strong>6</strong><br /><sub>أطالس</sub></td>
+              <td align="center"><strong>2026</strong><br /><sub>أدوات</sub></td>
+            </tr>
+          </tbody>
+        </table>
+        <p align="center"><sub><strong>مساعد خبير GOPP</strong></sub></p>
       </td>
     </tr>
   </tbody>

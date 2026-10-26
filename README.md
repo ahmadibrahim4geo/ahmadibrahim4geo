@@ -14,19 +14,23 @@
 
 ---
 
-<img align="right" width="180" alt="Ahmad Ibrahim — professional portfolio portrait" src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" />
-
 ## About me
 
-I work at the intersection of **GIS, hydraulic infrastructure, scientific cartography and software development**. My work combines engineering field surveys, **SewerGEMS / StormCAD** hydraulic-model outputs, **InfraWizard / AutoCAD / Civil 3D** drafting and **ArcGIS / QGIS** geospatial data processing.
-
-My professional portfolio documents stormwater-drainage and groundwater-control projects in **Egypt and Saudi Arabia**, and my GitHub repositories demonstrate the related GIS analysis, mapping and automation tools I build.
-
-I focus on reproducible datasets, carefully documented geospatial methods, interoperable formats, practical applications and verifiable testing.
-
-**Professional profile:** [Experience](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience) · [Infrastructure projects](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects) · [Publications](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications) · [Education & training](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education)
-
-<br clear="all" />
+<table>
+  <tbody>
+    <tr>
+      <td width="74%" valign="top">
+        <p>I work at the intersection of <strong>GIS, hydraulic infrastructure, scientific cartography and software development</strong>. My work combines engineering field surveys, <strong>SewerGEMS / StormCAD</strong> hydraulic-model outputs, <strong>InfraWizard / AutoCAD / Civil 3D</strong> drafting and <strong>ArcGIS / QGIS</strong> geospatial data processing.</p>
+        <p>My professional portfolio documents stormwater-drainage and groundwater-control projects in <strong>Egypt and Saudi Arabia</strong>, and my GitHub repositories demonstrate the related GIS analysis, mapping and automation tools I build.</p>
+        <p>I focus on reproducible datasets, carefully documented geospatial methods, interoperable formats, practical applications and verifiable testing.</p>
+        <p><strong>Professional profile:</strong> <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience">Experience</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects">Infrastructure projects</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications">Publications</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education">Education &amp; training</a></p>
+      </td>
+      <td width="26%" valign="top" align="center">
+        <img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="Ahmad Ibrahim — professional portrait" width="160" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Professional background
 

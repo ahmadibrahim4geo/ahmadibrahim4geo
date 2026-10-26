@@ -26,7 +26,17 @@
         <p><strong>Professional profile:</strong> <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience">Experience</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects">Infrastructure projects</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications">Publications</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education">Education &amp; training</a></p>
       </td>
       <td width="26%" valign="top" align="center">
-        <img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="Ahmad Ibrahim — professional portrait" width="160" />
+        <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/"><img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="Ahmad Ibrahim — professional portrait" width="160" /></a>
+        <table width="100%">
+          <tbody>
+            <tr>
+              <td align="center"><strong>5+</strong><br /><sub>Years</sub></td>
+              <td align="center"><strong>6</strong><br /><sub>Atlases</sub></td>
+              <td align="center"><strong>2026</strong><br /><sub>Tools</sub></td>
+            </tr>
+          </tbody>
+        </table>
+        <p align="center"><sub><strong>GOPP Expert Assistant</strong></sub></p>
       </td>
     </tr>
   </tbody>

@@ -1,6 +1,6 @@
 <div align="center">
 
-# أحمد إبراهيم | Ahmed Ibrahim
+# أحمد إبراهيم | Ahmad Ibrahim
 
 **أخصائي نظم معلومات جغرافية · مطوّر تطبيقات GIS · الاستشعار عن بُعد · نظم معلومات البنية التحتية**
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-**أحمد إبراهيم · Ahmed Ibrahim**
+**أحمد إبراهيم · Ahmad Ibrahim**
 
 [ملف الأعمال](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [البريد الإلكتروني](mailto:ahmadibrahim.geo@gmail.com) · [English](README.md)
 

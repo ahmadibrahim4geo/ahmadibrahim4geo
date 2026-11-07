@@ -81,3 +81,5 @@ The initial integration was tested with a clearly identified synthetic message a
 ## Logo verification
 
 Illustrator, Photoshop and InDesign use the original full-color Adobe SVG files referenced by Adobe’s official site, matching the refreshed app-icon system documented by Adobe Design. The owner project logos are verified against their original repository blobs; projects without a published logo remain text-only. Source URLs, dates and file hashes are recorded in the asset manifests.
+
+The educational curriculum atlas card uses the original Logo/Logo.PNG supplied by the owner, stored unchanged as assets/project-logos/curriculum-atlas.png. Its dimensions and hashes are recorded in the project logo source manifest.

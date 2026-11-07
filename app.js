@@ -19,6 +19,7 @@
   const meta = document.querySelector('meta[name="description"]');
   const englishDescription = meta.content;
   const softwareLogos = {
+    'Atlas of Egyptian Curriculums Maps App':'curriculum-atlas.png',
     'Storm Drainage Calculation Dashboard':'storm-drainage.png','GIS Development Skills':'gis-development-skills.svg',
     'MIRSAD':'mirsad.svg','GeoVision':'geovision.png','SmartCalculator':'smartcalculator.ico',
     'SmartPhotoOrganizer':'smartphoto.ico','RoboTransfer':'robotransfer.ico','DropAndCopy':'dropandcopy.ico',

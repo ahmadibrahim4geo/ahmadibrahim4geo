@@ -131,14 +131,30 @@
       "representation": "Original project logo/icon copied unchanged from the owner repository",
       "rights": "Project owner explicitly requested reuse in this portfolio",
       "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "curriculum-atlas.png",
+      "source_kind": "user-supplied-local-file",
+      "project": "Atlas of Egyptian Curriculums Maps App",
+      "path": "Logo/Logo.PNG",
+      "source": "Original Logo.PNG supplied by the project owner from the Atlas of Egyptian Curriculums Maps App project",
+      "blob_sha": "e1a2a389be845339421d356ddab507e400400e1b",
+      "sha256": "e0f599fd68a5635891a215ed0e4c15dc63a09c418fd576d8506afd5fa9a077ab",
+      "bytes": 2019314,
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "representation": "Original owner-supplied logo copied unchanged",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
     }
   ],
   "projects_without_logo": [
     "CreateFlowArrow",
     "Geological Cross-Section Toolbox",
     "GIS Style Collection",
-    "GIS Data Repositories Professional 2026",
-    "Atlas of Egyptian Curriculums Maps App"
+    "GIS Data Repositories Professional 2026"
   ],
   "policy": "No invented symbols are used for projects without a verified logo."
 }

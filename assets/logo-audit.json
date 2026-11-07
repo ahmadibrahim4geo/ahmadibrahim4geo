@@ -121,15 +121,14 @@
       "sha256": "2e789e8b92a2a823ca23a05ec80200c4652767f25a21d1d3273d5d736ec0a70d"
     }
   ],
-  "owner_project_logo_count": 11,
+  "owner_project_logo_count": 12,
   "owner_project_logos": "project-logos/SOURCES.json",
-  "owner_project_logo_blobs": "All match the current original source repositories",
+  "owner_project_logo_blobs": "Repository-sourced logos match their original repository blobs; the curriculum atlas logo matches the original file supplied by the project owner.",
   "owner_projects_without_verified_logo": [
     "CreateFlowArrow",
     "Geological Cross-Section Toolbox",
     "GIS Style Collection",
-    "GIS Data Repositories Professional 2026",
-    "Atlas of Egyptian Curriculums Maps App"
+    "GIS Data Repositories Professional 2026"
   ],
   "no_substitutions": "No generated, redrawn or placeholder logos are supplied for projects without a source logo",
   "adobe_refresh_reference": "https://adobe.design/ideas/behind-the-design-adobe-s-updated-app-icons",

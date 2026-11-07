@@ -1,0 +1,137 @@
+{
+  "verified_date": "2026-11-07",
+  "applications": [
+    {
+      "application": "InfraWizard",
+      "asset": "assets/brands/cadvalley.png",
+      "source": "https://infrawizard.com/wp-content/uploads/2023/06/right-header-1.png",
+      "representation": "Official CADValley developer mark from the infraWizard website; identifies the vendor, not a separate infraWizard product icon.",
+      "sha256": "fed69af779be481d5d667f39ebf95fb2c13c51649e2ef1f57e94072464bc782a"
+    },
+    {
+      "application": "ArcMap ArcGIS Desktop",
+      "asset": "assets/brands/arcmap.ico",
+      "source": "https://desktop.arcgis.com/en/arcmap/",
+      "representation": "Original icon resource copied unchanged from the installed official application.",
+      "sha256": "51203e5e8508f775d6593e77b4a74ff2360a4df833eebdff9a72eb6de830669b"
+    },
+    {
+      "application": "ArcGIS Pro",
+      "asset": "assets/brands/arcgis-pro.svg",
+      "source": "https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-pro-64.svg",
+      "representation": "Published original brand mark",
+      "sha256": "9e43182c1aab23757224388742cce733d4bf6c0e317f792380ac39451449b982"
+    },
+    {
+      "application": "QGIS",
+      "asset": "assets/brands/qgis.svg",
+      "source": "https://raw.githubusercontent.com/qgis/QGIS/master/images/svg/logos/qgis-icon.svg",
+      "representation": "Published original brand mark",
+      "sha256": "235b6070e09eb9bddc82da79657584b1a3eb15a796fb4fcb4f0ba5a33dc4e3b8"
+    },
+    {
+      "application": "Global Mapper",
+      "asset": "assets/brands/global-mapper.svg",
+      "source": "https://www.bluemarblegeo.com/wp-content/uploads/2026/06/GM_Logo-mobile-svg.svg",
+      "representation": "Original publisher logo copied unchanged; used only to identify the named software",
+      "sha256": "013d7a929587ce5658ddedc5cdc64807eb40b9931ac663a1facd1e346292f1e5"
+    },
+    {
+      "application": "AutoCAD",
+      "asset": "assets/brands/autocad.ico",
+      "source": "https://www.autodesk.com/products/autocad/overview",
+      "representation": "Original icon resource copied unchanged from the installed official application.",
+      "sha256": "c58880af0342654538bb10ff1e42ac1d28ebbbb88d2d4568723f48605702870d"
+    },
+    {
+      "application": "Civil 3D",
+      "asset": "assets/brands/civil3d.ico",
+      "source": "https://www.autodesk.com/products/civil-3d/overview",
+      "representation": "Original icon resource copied unchanged from the installed official application.",
+      "sha256": "330c48074f679f4a42d0b63a9aecfad9520bf8b84e51672686edb2f0f0786e7c"
+    },
+    {
+      "application": "SewerGEMS",
+      "asset": "assets/brands/sewergems.ico",
+      "source": "https://www.bentley.com/software/openflows-sewer/",
+      "representation": "Original icon resource copied unchanged from the installed official application.",
+      "sha256": "863ee3ed6b1d347c4a859fdd7b5c504f878606a76007249870c32cd6264150d7"
+    },
+    {
+      "application": "StormCAD",
+      "asset": "assets/brands/bentley.svg",
+      "source": "https://www.bentley.com/software/openflows-sewer/",
+      "representation": "Official Bentley corporate mark identifying the StormCAD vendor; not a separate StormCAD product icon.",
+      "sha256": "55b2ae811b7d032851c7e9be8dfc346b7113c3ccb654ac12e4970afba3e66a45"
+    },
+    {
+      "application": "SAS Planet",
+      "asset": "assets/brands/sasplanet.png",
+      "source": "https://raw.githubusercontent.com/sasgis/sas.planet.src/master/Resources/MainIcon/icon128.ico",
+      "representation": "PNG conversion of the original SASGIS icon, preserving its decoded RGBA pixels; avoids inconsistent ICO dimensions in browser rendering.",
+      "sha256": "c0851973f769deb7533a5d9886f8cc337bfccdf282177d7b5ca97664c47023ba"
+    },
+    {
+      "application": "Microsoft Office Suite",
+      "asset": "assets/brands/microsoft-office.png",
+      "source": "https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/images/office-logo.png",
+      "representation": "Original publisher logo copied unchanged; used only to identify the named software",
+      "sha256": "75b6f0110baae0692d542b70ac3ceb3c90f2e8294348b4d0507b4781684abe47"
+    },
+    {
+      "application": "Google Earth Pro",
+      "asset": "assets/brands/google-earth.ico",
+      "source": "https://www.gstatic.com/earth/00-favicon.ico",
+      "representation": "Original publisher brand asset",
+      "sha256": "bb1dd5d8c69776521d2a5fd53f980654de50260cc8ebe9a6a826a10b444a1c94"
+    },
+    {
+      "application": "Google Earth Engine",
+      "asset": "assets/brands/google-earth-engine-icon.png",
+      "source": "https://earthengine.google.com/static/images/earth_engine_icon.png",
+      "representation": "Official Google Earth Engine site icon",
+      "sha256": "8f307181f227579dcb5e9f6be6b2f0463d790e566b812b4398f84939cf7d7dc5"
+    },
+    {
+      "application": "Payazed Menu",
+      "asset": "assets/brands/payazed.png",
+      "source": "https://www.payazed.com/Payazed-AutoCAD-Revit-Small.png",
+      "representation": "Original publisher brand asset",
+      "sha256": "4ddfb3e40c7b19ba55808a83ca31a3421ca2414e9b28819ebecd69b0993dddae"
+    },
+    {
+      "application": "Adobe Illustrator",
+      "asset": "assets/brands/adobe-illustrator.svg",
+      "source": "https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/illustrator.svg",
+      "representation": "Original full-color Adobe application icon, copied without recoloring or redrawing; current publisher asset for the refresh rolled out at Adobe MAX 2025",
+      "sha256": "325b4dd225461135f9af1b40221ffb766bb7249abd9943ac115efa33c714acaf"
+    },
+    {
+      "application": "Adobe Photoshop",
+      "asset": "assets/brands/adobe-photoshop.svg",
+      "source": "https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/photoshop.svg",
+      "representation": "Original full-color Adobe application icon, copied without recoloring or redrawing; current publisher asset for the refresh rolled out at Adobe MAX 2025",
+      "sha256": "32d8d8a42e006e84e464986955c3035a2efa2970827a1ac1e38bef12fc223a33"
+    },
+    {
+      "application": "Adobe InDesign",
+      "asset": "assets/brands/adobe-indesign.svg",
+      "source": "https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/indesign.svg",
+      "representation": "Original full-color Adobe application icon, copied without recoloring or redrawing; current publisher asset for the refresh rolled out at Adobe MAX 2025",
+      "sha256": "2e789e8b92a2a823ca23a05ec80200c4652767f25a21d1d3273d5d736ec0a70d"
+    }
+  ],
+  "owner_project_logo_count": 11,
+  "owner_project_logos": "project-logos/SOURCES.json",
+  "owner_project_logo_blobs": "All match the current original source repositories",
+  "owner_projects_without_verified_logo": [
+    "CreateFlowArrow",
+    "Geological Cross-Section Toolbox",
+    "GIS Style Collection",
+    "GIS Data Repositories Professional 2026",
+    "Atlas of Egyptian Curriculums Maps App"
+  ],
+  "no_substitutions": "No generated, redrawn or placeholder logos are supplied for projects without a source logo",
+  "adobe_refresh_reference": "https://adobe.design/ideas/behind-the-design-adobe-s-updated-app-icons",
+  "adobe_assets": "Original SVG files from the Adobe website, with original colors and proportions preserved"
+}

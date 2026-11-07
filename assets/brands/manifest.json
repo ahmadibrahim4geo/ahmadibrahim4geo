@@ -206,33 +206,6 @@
     "license_url": "https://www.payazed.com/payazed-menu"
   },
   {
-    "file": "illustrator.svg",
-    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/adobeillustrator.svg",
-    "source_page": "https://github.com/simple-icons/simple-icons/tree/11.15.0",
-    "sha256": "f6bfd1f6662f2db4d8047406fd93ffb8d262b20b74ec83999d0d5c64c122177d",
-    "bytes": 1012,
-    "representation": "Simple Icons brand silhouette, CC0",
-    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
-  },
-  {
-    "file": "photoshop.svg",
-    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/adobephotoshop.svg",
-    "source_page": "https://github.com/simple-icons/simple-icons/tree/11.15.0",
-    "sha256": "11f791a18f274a494148fa2b2b04b81e4cb21561537ce5ac0af38ec8fdce97c1",
-    "bytes": 1686,
-    "representation": "Simple Icons brand silhouette, CC0",
-    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
-  },
-  {
-    "file": "indesign.svg",
-    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/adobeindesign.svg",
-    "source_page": "https://github.com/simple-icons/simple-icons/tree/11.15.0",
-    "sha256": "7faaa78a832df205e02f11f2af4990cbf66bd677f5606430a444462dc4548d56",
-    "bytes": 954,
-    "representation": "Simple Icons brand silhouette, CC0",
-    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
-  },
-  {
     "file": "google-earth-engine-icon.png",
     "source": "https://earthengine.google.com/static/images/earth_engine_icon.png",
     "source_page": "https://earthengine.google.com/",
@@ -240,5 +213,41 @@
     "bytes": 12049,
     "representation": "Official Google Earth Engine site icon",
     "license_url": "https://about.google/brand-resource-center/products-and-services/geo-guidelines/"
+  },
+  {
+    "file": "adobe-illustrator.svg",
+    "creator": "Adobe",
+    "source": "https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/illustrator.svg",
+    "source_page": "https://www.adobe.com/products/illustrator.html",
+    "brand_refresh_reference": "https://adobe.design/ideas/behind-the-design-adobe-s-updated-app-icons",
+    "license_url": "https://www.adobe.com/legal/permissions/trademarks.html",
+    "representation": "Original full-color Adobe application icon, copied without recoloring or redrawing; current publisher asset for the refresh rolled out at Adobe MAX 2025",
+    "sha256": "325b4dd225461135f9af1b40221ffb766bb7249abd9943ac115efa33c714acaf",
+    "bytes": 1006,
+    "verified_date": "2026-11-07"
+  },
+  {
+    "file": "adobe-photoshop.svg",
+    "creator": "Adobe",
+    "source": "https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/photoshop.svg",
+    "source_page": "https://www.adobe.com/products/photoshop.html",
+    "brand_refresh_reference": "https://adobe.design/ideas/behind-the-design-adobe-s-updated-app-icons",
+    "license_url": "https://www.adobe.com/legal/permissions/trademarks.html",
+    "representation": "Original full-color Adobe application icon, copied without recoloring or redrawing; current publisher asset for the refresh rolled out at Adobe MAX 2025",
+    "sha256": "32d8d8a42e006e84e464986955c3035a2efa2970827a1ac1e38bef12fc223a33",
+    "bytes": 1480,
+    "verified_date": "2026-11-07"
+  },
+  {
+    "file": "adobe-indesign.svg",
+    "creator": "Adobe",
+    "source": "https://main--cc--adobecom.aem.live/cc-shared/assets/img/product-icons/svg/indesign.svg",
+    "source_page": "https://www.adobe.com/products/indesign.html",
+    "brand_refresh_reference": "https://adobe.design/ideas/behind-the-design-adobe-s-updated-app-icons",
+    "license_url": "https://www.adobe.com/legal/permissions/trademarks.html",
+    "representation": "Original full-color Adobe application icon, copied without recoloring or redrawing; current publisher asset for the refresh rolled out at Adobe MAX 2025",
+    "sha256": "2e789e8b92a2a823ca23a05ec80200c4652767f25a21d1d3273d5d736ec0a70d",
+    "bytes": 1075,
+    "verified_date": "2026-11-07"
   }
 ]

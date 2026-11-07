@@ -76,3 +76,8 @@ The initial integration was tested with a clearly identified synthetic message a
 ## العربية
 
 ملف أعمال عربي وإنجليزي يعرض الخبرات والمشاريع الهندسية والأدوات البرمجية والأطالس المسجلة وفق نسختَي السيرة الذاتية المقدمتين. يدعم اتجاه RTL والموبايل، وتصفية البرمجيات، ونوافذ تفاصيل المشاريع، وعرض السيرة الذاتية وتحميلها بصيغتَي PDF وWord. لا يتضمن ادعاءات رقمية عن تحسن الأداء أو نتائج غير مذكورة في السيرة الذاتية.
+
+
+## Logo verification
+
+Illustrator, Photoshop and InDesign use the original full-color Adobe SVG files referenced by Adobe’s official site, matching the refreshed app-icon system documented by Adobe Design. The owner project logos are verified against their original repository blobs; projects without a published logo remain text-only. Source URLs, dates and file hashes are recorded in the asset manifests.

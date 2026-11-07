@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="44" viewBox="0 0 134 44" role="img" aria-label="CV · Word">
+  <title>CV · Word</title>
+  <rect x=".5" y=".5" width="133" height="43" rx="9" fill="#12283b" stroke="#355166"/>
+  <g transform="translate(14 10)"><g fill="none" stroke="#9ae7df" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 2h7l5 5v15H5V2h2zM14 2v6h5M8 13h8M8 17h6"/></g></g>
+  <text x="88.5" y="27" text-anchor="middle" fill="#f1f8fc" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">CV · Word</text>
+</svg>

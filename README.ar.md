@@ -1,12 +1,21 @@
 <div align="center">
 
-# أحمد إبراهيم | Ahmad Ibrahim
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile/header-ar-mobile.png">
+  <img src="assets/profile/header-ar.png" alt="أحمد إبراهيم | Ahmad Ibrahim — أخصائي نظم المعلومات الجغرافية وشبكات تصريف الأمطار، رسام هيدرولوجي ومتخصص InfraWizard. خبرة أكثر من ٥ سنوات، ٦ أطالس جغرافية، ومشروعات في مصر والسعودية. مساعد خبير مسجل بالهيئة العامة للتخطيط العمراني." width="1200">
+</picture>
 
-**أخصائي GIS وشبكات تصريف الأمطار · رسام هيدرولوجي · متخصص InfraWizard**
-
-[البورتفوليو الرسمي](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/) · [CV PDF](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [CV Word](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/assets/Ahmad_Ibrahim_CV_Final_Improved.docx) · [English](README.md)
-
-<img src="assets/ahmad-ibrahim.png" alt="Ahmad Ibrahim" width="160" />
+<p>
+  <a href="https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/"><img src="assets/profile/portfolio-ar.svg" alt="البورتفوليو الرسمي" height="44"></a>
+  <a href="https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf"><img src="assets/profile/cv-pdf.svg" alt="CV PDF" height="44"></a>
+  <a href="https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/assets/Ahmad_Ibrahim_CV_Final_Improved.docx"><img src="assets/profile/cv-word.svg" alt="CV Word" height="44"></a>
+  <a href="README.md"><img src="assets/profile/english.svg" alt="English" height="44"></a>
+</p>
+<p>
+  <a href="mailto:ahmadibrahim.geo@gmail.com"><img src="assets/profile/email.svg" alt="Email Ahmad Ibrahim" height="44"></a>
+  <a href="https://www.linkedin.com/in/ahmadibrahim4geo/"><img src="assets/profile/linkedin.svg" alt="LinkedIn" height="44"></a>
+  <a href="https://github.com/ahmadibrahim4geo"><img src="assets/profile/github.svg" alt="GitHub" height="44"></a>
+</p>
 
 </div>
 

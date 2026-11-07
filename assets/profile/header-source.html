@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ahmad Ibrahim — GitHub profile header source</title>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; }
+    body { background: transparent; color: #f5f8fc; font-family: "Segoe UI", Tahoma, sans-serif; }
+    .header { position: relative; isolation: isolate; display: grid; grid-template-columns: minmax(0, 1fr) 264px; gap: 40px; width: 1200px; height: 490px; padding: 42px 48px; overflow: hidden; border: 1px solid #2b465b; border-radius: 24px; background: radial-gradient(ellipse at 85% 25%, #173d50 0, transparent 55%), linear-gradient(115deg, #101e30, #0d1929); }
+    .header::before { content: ""; position: absolute; z-index: -1; inset: 0; opacity: .15; background-image: linear-gradient(#5793a8 1px, transparent 1px), linear-gradient(90deg, #5793a8 1px, transparent 1px); background-size: 54px 54px; mask-image: linear-gradient(90deg, transparent 40%, black); }
+    .intro { display: flex; flex-direction: column; min-width: 0; }
+    .eyebrow { margin: 0 0 15px; color: #77d8cf; font-size: 16px; font-weight: 600; letter-spacing: 3px; }
+    h1 { margin: 0; font-size: 62px; line-height: 1.12; letter-spacing: -1.8px; font-weight: 700; }
+    .other-name { margin: 6px 0 19px; color: #a9bccb; font-size: 26px; line-height: 1.4; }
+    .role { margin: 0; max-width: 720px; font-size: 32px; font-weight: 600; line-height: 1.28; letter-spacing: -.4px; }
+    .specialties { margin: 12px 0 0; color: #b6c8d6; font-size: 20px; line-height: 1.5; }
+    .facts { display: grid; grid-template-columns: 1fr 1fr 1.35fr; gap: 0; margin-top: auto; padding-top: 22px; border-top: 1px solid #345164; }
+    .fact { padding-inline-end: 18px; }
+    .fact + .fact { border-inline-start: 1px solid #345164; padding-inline-start: 24px; }
+    .value { display: block; font-size: 34px; font-weight: 700; line-height: 1.15; color: #fff; }
+    .label { display: block; margin-top: 5px; font-size: 17px; line-height: 1.35; color: #b6c8d6; }
+    .place { font-size: 22px; line-height: 1.6; }
+    .portrait-column { display: flex; flex-direction: column; gap: 15px; }
+    .portrait { display: block; width: 264px; height: 330px; object-fit: cover; border: 1px solid #486679; border-radius: 17px; }
+    .credential { padding: 8px 0 0; text-align: center; }
+    .credential strong { color: #77d8cf; display: block; font-size: 17px; letter-spacing: 2px; line-height: 1.3; }
+    .credential span { display: block; margin-top: 4px; font-size: 18px; color: #d7e1e9; line-height: 1.3; }
+    [dir="rtl"] h1 { letter-spacing: 0; font-size: 64px; }
+    [dir="rtl"] .eyebrow { letter-spacing: 0; font-size: 20px; }
+    [dir="rtl"] .role { font-size: 32px; line-height: 1.5; }
+    [dir="rtl"] .other-name { margin-bottom: 10px; font-size: 25px; letter-spacing: 1px; }
+    [dir="rtl"] .specialties { margin-top: 7px; font-size: 21px; }
+    [dir="rtl"] .label { font-size: 18px; }
+    [dir="rtl"] .place { font-size: 24px; }
+    [dir="rtl"] .credential strong { letter-spacing: 0; }
+    @media (max-width: 800px) {
+      .header { width: 720px; height: 560px; padding: 30px; grid-template-columns: minmax(0, 1fr) 196px; gap: 24px; border-radius: 20px; }
+      .eyebrow { font-size: 13px; letter-spacing: 1.7px; margin-bottom: 14px; }
+      h1 { font-size: 43px; line-height: 1.15; letter-spacing: -1.4px; }
+      .other-name { font-size: 23px; margin: 7px 0 20px; }
+      .role { font-size: 30px; line-height: 1.35; }
+      .specialties { font-size: 22px; line-height: 1.5; max-width: 420px; }
+      .portrait { width: 196px; height: 245px; border-radius: 13px; }
+      .portrait-column { gap: 16px; }
+      .credential strong { font-size: 20px; }
+      .credential span { font-size: 21px; line-height: 1.35; }
+      .facts { position: absolute; inset-inline: 30px; bottom: 28px; grid-template-columns: 1fr 1fr 1.3fr; padding-top: 18px; gap: 0; }
+      .fact { padding-inline-end: 12px; }
+      .fact + .fact { padding-inline-start: 18px; }
+      .value { font-size: 40px; }
+      .label { font-size: 22px; }
+      .place { font-size: 24px; line-height: 1.4; }
+      [dir="rtl"] h1 { font-size: 47px; }
+      [dir="rtl"] .eyebrow { font-size: 17px; }
+      [dir="rtl"] .other-name { font-size: 22px; margin-bottom: 14px; }
+      [dir="rtl"] .role { font-size: 30px; line-height: 1.5; }
+      [dir="rtl"] .specialties { font-size: 22px; }
+      [dir="rtl"] .label { font-size: 22px; }
+      [dir="rtl"] .place { font-size: 26px; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Render at 1200×490 and 720×560, deviceScaleFactor 2. The original portrait is unchanged. -->
+  <main class="header">
+    <section class="intro">
+      <p class="eyebrow" id="eyebrow">GIS · INFRASTRUCTURE · HYDROLOGY</p>
+      <h1 id="name">Ahmad Ibrahim</h1>
+      <p class="other-name" id="other-name" lang="ar">أحمد إبراهيم</p>
+      <p class="role" id="role">GIS &amp; Stormwater<br>Network Specialist</p>
+      <p class="specialties" id="specialties">Hydrological Draftsman · InfraWizard Specialist</p>
+      <div class="facts">
+        <div class="fact"><strong class="value" id="years">5+</strong><span class="label" id="years-label">Years of experience</span></div>
+        <div class="fact"><strong class="value" id="atlases">6</strong><span class="label" id="atlases-label">Geographic atlases</span></div>
+        <div class="fact region"><strong class="value place" id="place">Egypt &amp; Saudi Arabia</strong><span class="label" id="place-label">Project experience</span></div>
+      </div>
+    </section>
+    <aside class="portrait-column">
+      <img class="portrait" src="../ahmad-ibrahim.png" alt="Ahmad Ibrahim">
+      <div class="credential"><strong id="credential">GOPP</strong><span id="credential-label">Registered Expert Assistant</span></div>
+    </aside>
+  </main>
+  <script>
+    if (new URLSearchParams(location.search).get('lang') === 'ar') {
+      document.documentElement.lang = 'ar';
+      document.querySelector('main').dir = 'rtl';
+      const text = {
+        'eyebrow': 'نظم المعلومات الجغرافية · البنية التحتية',
+        'name': 'أحمد إبراهيم', 'other-name': 'Ahmad Ibrahim',
+        'role': 'أخصائي نظم المعلومات الجغرافية وشبكات تصريف الأمطار',
+        'specialties': 'رسام هيدرولوجي · متخصص InfraWizard',
+        'years': '+٥', 'years-label': 'سنوات من الخبرة',
+        'atlases': '٦', 'atlases-label': 'أطالس جغرافية',
+        'place': 'مصر والسعودية', 'place-label': 'خبرة في المشروعات',
+        'credential': 'مساعد خبير مسجل', 'credential-label': 'الهيئة العامة للتخطيط العمراني'
+      };
+      for (const [id, value] of Object.entries(text)) document.getElementById(id).textContent = value;
+      document.getElementById('other-name').lang = 'en';
+    }
+  </script>
+</body>
+</html>

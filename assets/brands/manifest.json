@@ -1,0 +1,244 @@
+[
+  {
+    "file": "arcgis-pro.svg",
+    "source": "https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-pro-64.svg",
+    "sha256": "9e43182c1aab23757224388742cce733d4bf6c0e317f792380ac39451449b982",
+    "bytes": 8713
+  },
+  {
+    "file": "qgis.svg",
+    "source": "https://raw.githubusercontent.com/qgis/QGIS/master/images/svg/logos/qgis-icon.svg",
+    "sha256": "235b6070e09eb9bddc82da79657584b1a3eb15a796fb4fcb4f0ba5a33dc4e3b8",
+    "bytes": 1091
+  },
+  {
+    "file": "cadvalley.png",
+    "source": "https://infrawizard.com/wp-content/uploads/2023/06/right-header-1.png",
+    "sha256": "fed69af779be481d5d667f39ebf95fb2c13c51649e2ef1f57e94072464bc782a",
+    "bytes": 2677,
+    "representation": "Official CADValley developer mark from the infraWizard website; identifies the vendor, not a separate infraWizard product icon."
+  },
+  {
+    "file": "autocad.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/autocad.svg",
+    "sha256": "dee9d0d2f266609cefa58e0df43c9831e426a6d66df5cd17ecaa6e8c7d398b30",
+    "bytes": 468
+  },
+  {
+    "file": "excel.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/microsoftexcel.svg",
+    "sha256": "82ba81537ec194a06c8c5af954f08b6e28b6bdf23ebf4571526246df9458e295",
+    "bytes": 563
+  },
+  {
+    "file": "python.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/python.svg",
+    "sha256": "9fb71f2e3e739369485518138b614a939d96c0afe422465f86a353102fb366c3",
+    "bytes": 1518
+  },
+  {
+    "file": "dotnet.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/dotnet.svg",
+    "sha256": "011909905452b0c51f030752717434ac4dd3c8602aa4d3925306b7a3cd349c00",
+    "bytes": 534
+  },
+  {
+    "file": "csharp.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/csharp.svg",
+    "sha256": "f90e1327b1d36a7c695aaa40c2bbbe66aeb2c14caea4fa04a039c4b9aa928d23",
+    "bytes": 1109
+  },
+  {
+    "file": "kotlin.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/kotlin.svg",
+    "sha256": "ad4a4782108ca47436a6e8d35c71061c44276f1d21540b73a71734a2e117624b",
+    "bytes": 130
+  },
+  {
+    "file": "jetpackcompose.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/jetpackcompose.svg",
+    "sha256": "d4e84e2f3de5153bed0232e54fda50f71ca53ec66da709c50de6a47f9aaa0e27",
+    "bytes": 1553
+  },
+  {
+    "file": "javascript.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/javascript.svg",
+    "sha256": "33a92a3f7d71b4d7a3e2ffdf3c59af92d8178d14615bb0560fbcbe83be96094b",
+    "bytes": 974
+  },
+  {
+    "file": "html5.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/html5.svg",
+    "sha256": "e8eb0c5d1ad2c292c4120e357397dc56ca990dc5b584ed355001f114a134748e",
+    "bytes": 327
+  },
+  {
+    "file": "css3.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/css3.svg",
+    "sha256": "53a3c3e230510ea1b0c91831243255e0cf79cf7e5d5f9d96d792ae75749da607",
+    "bytes": 328
+  },
+  {
+    "file": "git.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/git.svg",
+    "sha256": "cbda6b93ced9e6739d0a13fcf553bdb6f0fac7167718819637e4811369ea3b7b",
+    "bytes": 702
+  },
+  {
+    "file": "github.svg",
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg",
+    "sha256": "84b8a97a7f121ece38c5f56d91912a003ef96f500b1d44ca5dc77a270b6e4791",
+    "bytes": 1595
+  },
+  {
+    "file": "linkedin.svg",
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg",
+    "sha256": "cd560ce8da99a254b1ea67f07a0da048c3e6e764146102160fc73fbab67d72b0",
+    "bytes": 715
+  },
+  {
+    "file": "whatsapp.svg",
+    "source": "https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/whatsapp.svg",
+    "sha256": "5b2054497bf8bdc009569dcb19ec6c41a133e9d7e813aa9d18507edb33fedbe9",
+    "bytes": 1177
+  },
+  {
+    "file": "gmail.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/gmail.svg",
+    "sha256": "3a2bc0aaca0b1a7d11e77627d481d08dde91c9bfaee1f06bfe9f46363a990e2e",
+    "bytes": 339
+  },
+  {
+    "file": "zoom.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/zoom.svg",
+    "sha256": "da5b2f13d38ca61c88a227f58e3bebcbcbb55412d97678ecff49ae7c603f9a7b",
+    "bytes": 837
+  },
+  {
+    "file": "arcmap.ico",
+    "source": "https://desktop.arcgis.com/en/arcmap/",
+    "bytes": 325638,
+    "sha256": "51203e5e8508f775d6593e77b4a74ff2360a4df833eebdff9a72eb6de830669b",
+    "representation": "Original icon resource copied unchanged from the installed official application."
+  },
+  {
+    "file": "autocad.ico",
+    "source": "https://www.autodesk.com/products/autocad/overview",
+    "bytes": 181109,
+    "sha256": "c58880af0342654538bb10ff1e42ac1d28ebbbb88d2d4568723f48605702870d",
+    "representation": "Original icon resource copied unchanged from the installed official application."
+  },
+  {
+    "file": "sewergems.ico",
+    "source": "https://www.bentley.com/software/openflows-sewer/",
+    "bytes": 115736,
+    "sha256": "863ee3ed6b1d347c4a859fdd7b5c504f878606a76007249870c32cd6264150d7",
+    "representation": "Original icon resource copied unchanged from the installed official application."
+  },
+  {
+    "file": "civil3d.ico",
+    "source": "https://www.autodesk.com/products/civil-3d/overview",
+    "sha256": "330c48074f679f4a42d0b63a9aecfad9520bf8b84e51672686edb2f0f0786e7c",
+    "representation": "Original icon resource copied unchanged from the installed official application."
+  },
+  {
+    "file": "sasplanet.ico",
+    "source": "https://raw.githubusercontent.com/sasgis/sas.planet.src/master/Resources/MainIcon/icon128.ico",
+    "sha256": "4a809860bb28e82137a12774f1ee09c99155920c48f8b15a256f5fc5e5112f7a"
+  },
+  {
+    "file": "bentley.svg",
+    "source": "https://www.bentley.com/software/openflows-sewer/",
+    "representation": "Official Bentley corporate mark identifying the StormCAD vendor; not a separate StormCAD product icon.",
+    "sha256": "55b2ae811b7d032851c7e9be8dfc346b7113c3ccb654ac12e4970afba3e66a45"
+  },
+  {
+    "file": "global-mapper.svg",
+    "source": "https://www.bluemarblegeo.com/wp-content/uploads/2026/06/GM_Logo-mobile-svg.svg",
+    "source_page": "https://www.bluemarblegeo.com/global-mapper/",
+    "sha256": "013d7a929587ce5658ddedc5cdc64807eb40b9931ac663a1facd1e346292f1e5",
+    "bytes": 7430,
+    "representation": "Original publisher logo copied unchanged; used only to identify the named software",
+    "license_url": "https://www.bluemarblegeo.com/global-mapper/"
+  },
+  {
+    "file": "microsoft-office.png",
+    "source": "https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/images/office-logo.png",
+    "source_page": "https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/branding",
+    "sha256": "75b6f0110baae0692d542b70ac3ceb3c90f2e8294348b4d0507b4781684abe47",
+    "bytes": 10718,
+    "representation": "Original publisher logo copied unchanged; used only to identify the named software",
+    "license_url": "https://learn.microsoft.com/en-us/microsoft-365/cloud-storage-partner-program/online/branding"
+  },
+  {
+    "file": "sasplanet.png",
+    "source": "https://raw.githubusercontent.com/sasgis/sas.planet.src/master/Resources/MainIcon/icon128.ico",
+    "sha256": "c0851973f769deb7533a5d9886f8cc337bfccdf282177d7b5ca97664c47023ba",
+    "source_sha256": "4a809860bb28e82137a12774f1ee09c99155920c48f8b15a256f5fc5e5112f7a",
+    "representation": "PNG conversion of the original SASGIS icon, preserving its decoded RGBA pixels; avoids inconsistent ICO dimensions in browser rendering.",
+    "license_url": "https://github.com/sasgis/sas.planet.src/blob/master/LICENSE"
+  },
+  {
+    "file": "google-earth.ico",
+    "source": "https://www.gstatic.com/earth/00-favicon.ico",
+    "source_page": "https://www.google.com/earth/about/versions/",
+    "sha256": "bb1dd5d8c69776521d2a5fd53f980654de50260cc8ebe9a6a826a10b444a1c94",
+    "bytes": 15086,
+    "representation": "Original publisher brand asset",
+    "license_url": "https://www.google.com/earth/about/versions/"
+  },
+  {
+    "file": "google-earth-engine.png",
+    "source": "https://earthengine.google.com/static/images/earth_engine_logo.png",
+    "source_page": "https://earthengine.google.com/",
+    "sha256": "0cde7f27a9d5dd632308a9949ae0db2cdcf272a8674a1368e4c1bcb4447a574d",
+    "bytes": 9943,
+    "representation": "Original publisher brand asset",
+    "license_url": "https://earthengine.google.com/"
+  },
+  {
+    "file": "payazed.png",
+    "source": "https://www.payazed.com/Payazed-AutoCAD-Revit-Small.png",
+    "source_page": "https://www.payazed.com/payazed-menu",
+    "sha256": "4ddfb3e40c7b19ba55808a83ca31a3421ca2414e9b28819ebecd69b0993dddae",
+    "bytes": 71287,
+    "representation": "Original publisher brand asset",
+    "license_url": "https://www.payazed.com/payazed-menu"
+  },
+  {
+    "file": "illustrator.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/adobeillustrator.svg",
+    "source_page": "https://github.com/simple-icons/simple-icons/tree/11.15.0",
+    "sha256": "f6bfd1f6662f2db4d8047406fd93ffb8d262b20b74ec83999d0d5c64c122177d",
+    "bytes": 1012,
+    "representation": "Simple Icons brand silhouette, CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "file": "photoshop.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/adobephotoshop.svg",
+    "source_page": "https://github.com/simple-icons/simple-icons/tree/11.15.0",
+    "sha256": "11f791a18f274a494148fa2b2b04b81e4cb21561537ce5ac0af38ec8fdce97c1",
+    "bytes": 1686,
+    "representation": "Simple Icons brand silhouette, CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "file": "indesign.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@11/icons/adobeindesign.svg",
+    "source_page": "https://github.com/simple-icons/simple-icons/tree/11.15.0",
+    "sha256": "7faaa78a832df205e02f11f2af4990cbf66bd677f5606430a444462dc4548d56",
+    "bytes": 954,
+    "representation": "Simple Icons brand silhouette, CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "file": "google-earth-engine-icon.png",
+    "source": "https://earthengine.google.com/static/images/earth_engine_icon.png",
+    "source_page": "https://earthengine.google.com/",
+    "sha256": "8f307181f227579dcb5e9f6be6b2f0463d790e566b812b4398f84939cf7d7dc5",
+    "bytes": 12049,
+    "representation": "Official Google Earth Engine site icon",
+    "license_url": "https://about.google/brand-resource-center/products-and-services/geo-guidelines/"
+  }
+]

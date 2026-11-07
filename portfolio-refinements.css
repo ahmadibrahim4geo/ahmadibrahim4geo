@@ -1,0 +1,147 @@
+/* Readable card labels, complete CV content and locally bundled brand assets. */
+.eyebrow,.section-index,.period,.software-kind,.software-stack,.project-tag,
+.atlas-registration,.toolbelt,.result-count,.project-place,.repo-link {
+  font-family:var(--sans);letter-spacing:0;line-height:1.65;
+}
+.eyebrow,.section-index,.software-kind,.project-tag {
+  display:inline-flex;align-items:center;max-width:100%;width:fit-content;
+  padding:7px 12px;border:1px solid #2fe3c42e;border-radius:9px;
+  background:#2fe3c40b;color:#9ce8dc;font-size:.72rem;font-weight:650;
+}
+.section-index { gap:10px;margin-bottom:19px; }
+.section-index > span:first-child { padding-inline-end:9px;border-inline-end:1px solid #2fe3c42e; }
+.education-grid .eyebrow,.research-notes .eyebrow { display:inline-flex;margin-bottom:18px; }
+.cv-panel .eyebrow,.featured-copy > .eyebrow { font-size:.72rem; }
+.hero-copy .eyebrow { border-radius:10px;font-family:var(--sans);font-size:.71rem;letter-spacing:0; }
+.software-kind { font-size:.72rem;line-height:1.5;max-width:75%;padding:5px 9px; }
+.software-stack { font-size:.72rem; }
+.software-symbol.has-logo { width:48px;height:48px;padding:4px;background:#ffffff08;border-color:#ffffff1f; }
+.software-symbol.has-logo img { width:40px;height:40px;object-fit:contain; }
+.software-card h3,.expertise-grid h3,.project-row h3 { font-size:1.1rem;line-height:1.55;font-weight:700; }
+.project-place { font-size:.77rem; }
+.repo-link { font-size:.79rem; }
+.atlas-registration { font-size:.76rem; }
+.brand small { font-family:var(--sans);font-size:.5rem;letter-spacing:0; }
+
+/* Three distinct information cards retain the full professional credential. */
+.profile-card > .profile-details { display:grid;gap:9px;margin-top:15px; }
+.profile-info { padding:12px 14px;background:#070e1b80;border:1px solid #ffffff13;border-radius:12px; }
+.profile-label { display:block;color:#91b7cd;font-size:.73rem;font-weight:600;margin-bottom:5px; }
+.profile-card .profile-info strong { display:block;font:650 .88rem/1.6 var(--sans);color:var(--ink); }
+.profile-info.location-info { border-inline-start:3px solid #2fe3c49c; }
+.profile-info.credential-info { border-inline-start:3px solid #4f8cff9c; }
+.profile-info.specialty-info { border-inline-start:3px solid #8c99e19c; }
+.profile-card .globe-explorer { padding-top:14px;margin-top:15px; }
+.profile-card .globe-explorer summary { border-radius:9px;background:#ffffff05;padding:9px 10px;line-height:1.7; }
+
+/* Recognizable, accessible social marks instead of approximate line drawings. */
+.hero-social-links a { width:41px;height:41px; }
+.social-brand-icon { display:block;width:22px;height:22px;object-fit:contain; }
+.contact-links .social-brand-icon { width:24px;height:24px; }
+.github-mark,.linkedin-mark,.whatsapp-mark { filter:brightness(0) invert(1); }
+.hero-social-links a:hover,.contact-links a:hover { border-color:#2fe3c47a;box-shadow:0 0 0 3px #2fe3c40a; }
+.contact-phones { display:flex;flex-wrap:wrap;gap:10px;margin-top:17px; }
+.contact-phones a { padding:8px 12px;border-radius:9px;border:1px solid var(--rule);color:var(--muted);font-size:.79rem; }
+
+/* Working applications are separate from the software authored by Ahmad. */
+.core-skills { margin-top:27px;padding:27px;background:var(--surface);border:1px solid var(--rule);border-radius:17px; }
+.core-skills h3 { font-size:1.1rem;margin-bottom:20px; }
+.core-skills ul { display:grid;grid-template-columns:1fr 1fr;gap:17px 32px;list-style:none;margin:0;padding:0; }
+.core-skills li { border-inline-start:2px solid #2fe3c44d;padding-inline-start:15px;font-size:.83rem;line-height:1.95;color:var(--muted); }
+.training-brand { display:inline-block;float:inline-end;object-fit:contain;background:#f4f7fa;padding:5px;border-radius:8px; }
+.workspace-section { border-top:1px solid var(--rule); }
+.workspace-section .section-heading h2 { margin-top:16px; }
+.additional-software { margin-top:32px; }
+.additional-software > h3 { font-size:1.1rem;margin-bottom:18px; }
+.workspace-grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px; }
+.workspace-app { min-width:0;padding:23px;background:var(--surface);border:1px solid var(--rule);border-radius:17px;transition:border-color .2s,transform .2s; }
+.workspace-app:hover { border-color:#4f8cff60;transform:translateY(-3px); }
+.workspace-app-head { display:flex;align-items:center;gap:13px;margin-bottom:16px; }
+.app-logo-box { width:62px;height:62px;flex-shrink:0;display:grid;place-items:center;padding:9px;border-radius:13px;background:#f4f7fa;border:1px solid #fff; }
+.app-logo-box img { width:44px;height:44px;object-fit:contain; }
+.app-logo-box.logo-wide { width:110px; }
+.app-logo-box.logo-wide img { width:90px;height:44px; }
+.app-logo-box:has(img[src$="global-mapper.svg"]) { background:#142a3c;border-color:#ffffff21; }
+.workspace-app:has(img[src$="cadvalley.png"]) .app-logo-box,
+.workspace-app:has(img[src$="bentley.svg"]) .app-logo-box { width:90px; }
+.workspace-app:has(img[src$="cadvalley.png"]) .app-logo-box img,
+.workspace-app:has(img[src$="bentley.svg"]) .app-logo-box img { width:73px;height:43px; }
+.workspace-app h3 { font-size:1rem;font-weight:750;line-height:1.5; }
+.app-category { display:block;color:#8eaccd;font-size:.72rem;margin-top:4px;line-height:1.6; }
+.workspace-app p { font-size:.83rem;line-height:1.9; }
+.workspace-data,.development-stack { margin-top:22px;padding:25px;border:1px solid var(--rule);border-radius:17px;background:var(--surface); }
+.workspace-data h3,.development-stack h3 { font-size:1.08rem;margin-bottom:17px; }
+.workspace-data p,.development-stack > p { font-size:.81rem;margin-top:18px; }
+.format-chips { display:flex;flex-wrap:wrap;gap:8px; }
+.format-chips span { padding:6px 10px;border:1px solid #4f8cff2c;border-radius:8px;background:#4f8cff0a;font-size:.74rem;color:#c0d5ed; }
+.technology-grid { display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px; }
+.technology-item { display:flex;align-items:center;gap:10px;padding:11px;border:1px solid var(--rule);background:#070b1359;border-radius:10px;min-width:0; }
+.technology-item img { background:#f4f7fa;border-radius:5px;padding:4px;width:31px;height:31px;object-fit:contain;flex-shrink:0; }
+.technology-item span { font-size:.77rem;font-weight:600;line-height:1.6; }
+.development-stack .development-context { margin-block:0 20px;color:var(--muted);line-height:1.9; }
+
+/* Every original experience bullet is visible, without accordion truncation. */
+.experience-duties { list-style:none;margin:19px 0 0;padding:0;display:grid;gap:14px; }
+.experience-duties li { position:relative;padding-inline-start:19px;color:var(--muted);font-size:.88rem;line-height:1.95; }
+.experience-duties li::before { content:'';position:absolute;inset-inline-start:0;top:.85em;width:5px;height:5px;border-radius:2px;background:var(--accent); }
+.experience-row > div:last-child { padding:28px; }
+.experience-row h3 { line-height:1.55; }
+.experience-row .employer { margin-top:8px; }
+.period { font-size:.77rem;font-weight:600;padding:6px 11px;border-radius:9px; }
+.training-list small { font-family:var(--sans);font-size:.77rem;line-height:1.8; }
+.education-grid { grid-template-columns:minmax(0,1fr); }
+.certificate-groups { columns:2;column-gap:36px; }
+.certificate-group { break-inside:avoid;margin-bottom:28px;min-width:0; }
+.certificate-group h4 { margin:0 0 13px;color:var(--accent);font-size:.95rem;line-height:1.7; }
+.certificate-group .training-list li { padding-block:11px; }
+.certificate-group .training-list li:first-child { padding-top:0; }
+.certificate-group .training-list li:last-child { border-bottom:0; }
+.certificate-group .training-list span { line-height:1.8;overflow-wrap:anywhere; }
+@media(max-width:760px) {
+  .hero::before { inset-inline:0; }
+  .certificate-groups { columns:1; }
+}
+.asset-credits { font-size:.7rem;color:var(--muted);text-decoration:underline;text-underline-offset:3px; }
+
+[dir=rtl] .profile-card .profile-info strong,
+[dir=rtl] .profile-label { font-family:'Cairo',Tahoma,sans-serif; }
+[dir=rtl] .eyebrow,[dir=rtl] .section-index,[dir=rtl] .software-kind { font-size:.76rem; }
+@media(max-width:1100px) {
+  .workspace-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .technology-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+}
+@media(max-width:760px) {
+  .profile-card { align-items:start; }
+  .profile-card > .portrait { grid-row:1; }
+  .profile-card > .profile-details { display:grid;grid-template-columns:1fr;align-self:start;margin-top:0;gap:7px; }
+  .profile-card .profile-info { padding:9px 11px; }
+  .profile-card .profile-info strong { font-size:.77rem; }
+  .profile-label { font-size:.66rem;margin-bottom:3px; }
+  .profile-card .globe-explorer { grid-column:1/-1;margin-top:0; }
+  .workspace-app { padding:20px; }
+  .experience-row > div:last-child { padding:21px; }
+  .eyebrow,.section-index,.hero-copy .eyebrow { font-size:.68rem; }
+}
+@media(max-width:540px) {
+  .core-skills { padding:20px; }.core-skills ul { grid-template-columns:1fr; }
+  .workspace-grid { grid-template-columns:1fr; }
+  .technology-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .workspace-data,.development-stack { padding:20px; }
+  .profile-card { grid-template-columns:1fr; }
+  .profile-card > .portrait { width:100%;height:300px;grid-row:auto; }
+  .profile-card > .profile-details { grid-template-columns:1fr;margin-top:3px; }
+  .profile-card .profile-info { padding:11px 13px; }
+  .profile-card .profile-info strong { font-size:.88rem; }
+  .profile-label { font-size:.72rem; }
+  .experience-duties li { font-size:.85rem; }
+  .software-kind { max-width:75%; }
+}
+@media print {
+  .workspace-app,.workspace-data,.development-stack,.profile-info { background:white!important;color:#111;break-inside:avoid; }
+  .workspace-app p,.workspace-data p,.development-stack p,.experience-duties li { color:#333!important; }
+  .workspace-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .technology-grid { grid-template-columns:repeat(4,minmax(0,1fr)); }
+}
+@media(prefers-reduced-motion:reduce) { .workspace-app { transition:none; }.workspace-app:hover { transform:none; } }
+
+.workspace-app:has(img[src$="cadvalley.png"]) .app-logo-box { background:#101a2c;border-color:#ffffff21; }

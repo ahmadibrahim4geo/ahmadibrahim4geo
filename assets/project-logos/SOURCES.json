@@ -1,0 +1,144 @@
+{
+  "assets": [
+    {
+      "file": "mirsad.svg",
+      "repo": "MIRSAD",
+      "path": "assets/mirsad-icon-dark.svg",
+      "blob_sha": "f3ad69463195208a73aa7c10980d6c24633d0036",
+      "source": "https://github.com/ahmadibrahim4geo/MIRSAD/blob/HEAD/assets/mirsad-icon-dark.svg",
+      "sha256": "71609c448623de218a982be771c83ff2ac60cd3721783c2bea41c500387b76a1",
+      "bytes": 423,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "geovision.png",
+      "repo": "GeoVision",
+      "path": "app/src/main/res/drawable/logo.png",
+      "blob_sha": "f3335d47a20c01bafc7e7001e796f30a143aedfd",
+      "source": "https://github.com/ahmadibrahim4geo/GeoVision/blob/HEAD/app/src/main/res/drawable/logo.png",
+      "sha256": "34921be5d4ba1833fc7d0c4613b200ee702d9af056edec21a24cc9293ed63abc",
+      "bytes": 106580,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "smartcalculator.ico",
+      "repo": "SmartCalculator",
+      "path": "Assets/AppIcon.ico",
+      "blob_sha": "7c144424f098437ec915a28b3a52517a72023c7d",
+      "source": "https://github.com/ahmadibrahim4geo/SmartCalculator/blob/HEAD/Assets/AppIcon.ico",
+      "sha256": "2cb29393928be8f06c4999fa33297669920447b267a5390159d038b9d9a0a2b9",
+      "bytes": 99465,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "smartphoto.ico",
+      "repo": "SmartPhotoOrganizer",
+      "path": "Logo.ico",
+      "blob_sha": "a6ffedf51360f6580596ed40d23f586818b6e3f7",
+      "source": "https://github.com/ahmadibrahim4geo/SmartPhotoOrganizer/blob/HEAD/Logo.ico",
+      "sha256": "cf77427fabd6a5243386f64d8102ce188bb799782bed5c0cc1ff9188bc8d7fb4",
+      "bytes": 285478,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "robotransfer.ico",
+      "repo": "RoboTransfer",
+      "path": "src/RoboTransfer.App/Resources/Logo.ico",
+      "blob_sha": "fe73c056aa96156b6809c97a2d67b60762da4a6d",
+      "source": "https://github.com/ahmadibrahim4geo/RoboTransfer/blob/HEAD/src/RoboTransfer.App/Resources/Logo.ico",
+      "sha256": "7d8d32640a85a07288a708447993c19979d3fbfe08ba16091327a12cffda6a36",
+      "bytes": 2728,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "dropandcopy.ico",
+      "repo": "DropAndCopy",
+      "path": "Resources/DropAndCopy.ico",
+      "blob_sha": "c14f12a99daa91a09bd86e0efd7833fc6afcfbfa",
+      "source": "https://github.com/ahmadibrahim4geo/DropAndCopy/blob/HEAD/Resources/DropAndCopy.ico",
+      "sha256": "ef5dbb1d2badd9fcc2c2ced61076ad9cc2d2e5d2f5b50f11c42d32892fc8f0af",
+      "bytes": 154456,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "chargealert.png",
+      "repo": "ChargeAlert",
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "blob_sha": "2634a9d46c7c249c1caa2d493caf9b88d63f257f",
+      "source": "https://github.com/ahmadibrahim4geo/ChargeAlert/blob/HEAD/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+      "sha256": "29dc6e98043baf59183899cb9b9271b62e82b804d159ab876baec5643f796487",
+      "bytes": 7429,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "zearth-approved.png",
+      "repo": "Z-EARTH",
+      "path": "assets/branding/zearth_approved_icon.png",
+      "blob_sha": "4c9b09dd2bed6e7019440cc7ce4237da51c81f41",
+      "source": "https://github.com/ahmadibrahim4geo/Z-EARTH/blob/HEAD/assets/branding/zearth_approved_icon.png",
+      "sha256": "836b3eaf9d2aaf4a9fe6637ed7dec7343f26ca45fd8dc6ff9b95e589b6f7de93",
+      "bytes": 108847,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "storm-drainage.png",
+      "repo": "Storm_Drainage_Calculation_dashboard",
+      "path": "assets/img/logo.png",
+      "blob_sha": "79d16e3390f0f4a2aefb46efaf9b36f6b36ebb2f",
+      "source": "https://github.com/ahmadibrahim4geo/Storm_Drainage_Calculation_dashboard/blob/HEAD/assets/img/logo.png",
+      "sha256": "b1369684fdf88c47d7191026eba2fd6388a29820bd6541fbbdf597d97c13b003",
+      "bytes": 49401,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "gis-development-skills.svg",
+      "repo": "GIS-Development-Skills",
+      "path": "assets/brand/icon.svg",
+      "blob_sha": "32f51ef4f15d45514a30011c1087f9bcd47b109b",
+      "source": "https://github.com/ahmadibrahim4geo/GIS-Development-Skills/blob/HEAD/assets/brand/icon.svg",
+      "sha256": "d91cb5e20d882fd518037eadf6e57e26c8bac05ba09111842e168efc62724490",
+      "bytes": 1185,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    },
+    {
+      "file": "fitrashield-official.png",
+      "repo": "FitraShield",
+      "path": "logo.png",
+      "blob_sha": "0193cf94ad2bccac169dcd02c01c44aefbb63957",
+      "source": "https://github.com/ahmadibrahim4geo/FitraShield/blob/HEAD/logo.png",
+      "sha256": "2622f3aeb1981539f9d241211eaf7b8509c8179a24c4646c1dfa8b137de7c195",
+      "bytes": 183195,
+      "representation": "Original project logo/icon copied unchanged from the owner repository",
+      "rights": "Project owner explicitly requested reuse in this portfolio",
+      "alt": "Decorative image; adjacent project name supplies the accessible label"
+    }
+  ],
+  "projects_without_logo": [
+    "CreateFlowArrow",
+    "Geological Cross-Section Toolbox",
+    "GIS Style Collection",
+    "GIS Data Repositories Professional 2026",
+    "Atlas of Egyptian Curriculums Maps App"
+  ],
+  "policy": "No invented symbols are used for projects without a verified logo."
+}

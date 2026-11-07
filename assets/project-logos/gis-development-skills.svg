@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="380" viewBox="0 0 380 380" role="img" aria-labelledby="brandTitle brandDescription"><title id="brandTitle">GIS Development Skills</title><desc id="brandDescription">Original geometric three map layer icon with cyan route and green waypoint</desc><g id="map-layers-icon" transform="translate(0 0) scale(1)">
+<path id="bottom-layer" fill="#0B3D91" d="M32 244 L178 319 Q190 326 202 319 L348 244 L348 273 Q348 281 338 287 L202 360 Q190 366 178 360 L42 287 Q32 281 32 273 Z"/>
+<path id="middle-layer" fill="#1CC8E8" d="M32 177 L178 253 Q190 260 202 253 L348 177 L348 208 Q348 216 338 222 L202 295 Q190 301 178 295 L42 222 Q32 216 32 208 Z"/>
+<path id="top-map" fill="#FFFFFF" stroke="#DCE6EE" stroke-width="3.2" d="M178 23 Q190 16 202 23 L342 97 Q358 105 342 115 L202 193 Q190 200 178 193 L38 115 Q22 105 38 97 Z"/>
+<path id="map-route" d="M103 124 C138 102 163 117 191 131 C224 146 252 108 284 95" fill="none" stroke="#1CC8E8" stroke-width="11.5" stroke-linecap="round"/>
+<circle id="map-waypoint-outline" cx="191" cy="131" r="20" fill="#FFFFFF"/>
+<circle id="map-waypoint" cx="191" cy="131" r="14.5" fill="#82D53E"/>
+</g></svg>

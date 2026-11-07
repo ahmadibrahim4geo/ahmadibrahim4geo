@@ -2,93 +2,66 @@
 
 # Ahmad Ibrahim | أحمد إبراهيم
 
-**GIS Specialist · Hydrological Draftsman · Geospatial Software Developer**
+**GIS & Stormwater Network Specialist · Hydrological Draftsman · InfraWizard Specialist**
 
-**أخصائي نظم معلومات جغرافية · رسام هيدرولوجي · مطور تطبيقات GIS**
+[Official portfolio](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/) · [CV PDF](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [CV Word](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/assets/Ahmad_Ibrahim_CV_Final_Improved.docx) · [العربية](README.ar.md)
 
-*Infrastructure GIS · Stormwater & Flood Protection · Remote Sensing · Cartography · Open-Source Tools*
-
-[**Professional Portfolio**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [**View full CV (PDF)**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [**LinkedIn**](https://www.linkedin.com/in/ahmadibrahim4geo/) · [**العربية**](README.ar.md)
+<img src="assets/ahmad-ibrahim.png" alt="Ahmad Ibrahim" width="160" />
 
 </div>
 
----
+## Professional profile
 
-## About me
+GIS and stormwater network specialist with 5+ years of experience in infrastructure GIS, InfraWizard-based stormwater and groundwater reduction networks, CAD-to-GIS conversion, hydrological drafting and engineering deliverables. Project experience in Egypt and Saudi Arabia, especially Jeddah. Registered GOPP Expert Assistant and author of six geographic atlases.
 
-<table>
-  <tbody>
-    <tr>
-      <td width="74%" valign="top">
-        <p>I work at the intersection of <strong>GIS, hydraulic infrastructure, scientific cartography and software development</strong>. My work combines engineering field surveys, <strong>SewerGEMS / StormCAD</strong> hydraulic-model outputs, <strong>InfraWizard / AutoCAD / Civil 3D</strong> drafting and <strong>ArcGIS / QGIS</strong> geospatial data processing.</p>
-        <p>My professional portfolio documents stormwater-drainage and groundwater-control projects in <strong>Egypt and Saudi Arabia</strong>, and my GitHub repositories demonstrate the related GIS analysis, mapping and automation tools I build.</p>
-        <p>I focus on reproducible datasets, carefully documented geospatial methods, interoperable formats, practical applications and verifiable testing.</p>
-        <p><strong>Professional profile:</strong> <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#experience">Experience</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#projects">Infrastructure projects</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications">Publications</a> · <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#education">Education &amp; training</a></p>
-      </td>
-      <td width="26%" valign="top" align="center">
-        <a href="https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/"><img src="https://raw.githubusercontent.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/main/assets/ahmad-ibrahim.png" alt="Ahmad Ibrahim — professional portrait" width="160" /></a>
-        <table width="100%">
-          <tbody>
-            <tr>
-              <td align="center"><strong>5+</strong><br /><sub>Years</sub></td>
-              <td align="center"><strong>6</strong><br /><sub>Atlases</sub></td>
-              <td align="center"><strong>2026</strong><br /><sub>Tools</sub></td>
-            </tr>
-          </tbody>
-        </table>
-        <p align="center"><sub><strong>GOPP Expert Assistant</strong></sub></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+I use AI-assisted programming to develop GIS tools, desktop utilities, Android applications and web dashboards. My working software is listed separately from the software and tools I developed.
 
-## Professional background
+## Experience and education
 
-| Focus | Selected experience and credentials |
-| :--- | :--- |
-| **Infrastructure GIS & hydrological drafting** | Stormwater networks, flood mitigation, groundwater dewatering, network profiles, QA/QC, CAD-to-GIS and project-ready geodatabases |
-| **Engineering project delivery** | Work documented for Jeddah drainage and groundwater projects and related Egyptian infrastructure/geomatics assignments |
-| **Professional practice** | GIS & Hydrological Drafting Specialist at Vision Dimensions Engineering Consultancy (Oct 2021–Dec 2024); earlier freelance GIS/infrastructure work |
-| **Urban planning and GIS** | Registered GOPP expert assistant, as documented in the [professional portfolio](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) |
-| **Education** | B.A. in Geography, Maps and Geographic Information Systems, Cairo University (2018) |
-| **Cartography & publications** | Author of **six geographic atlases** listed in the [portfolio publication record](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/#publications) |
+- Vision Dimensions Engineering Consultancy: GIS Specialist and Hydrological Drafting Specialist, October 2021 - December 2024.
+- Freelance GIS Specialist, January 2020 - October 2021.
+- B.A. Geography, Maps and Geographic Information Systems, Faculty of Arts, Cairo University, May 2018.
 
-## Featured geospatial software and open-source projects
+## Software I use
 
-| Project | Description | Repository |
-| :--- | :--- | :--- |
-| **MIRSAD / مرصاد** | Weather-station climate data, ArcGIS atlas workflows and independent climate software under development | [Source](https://github.com/ahmadibrahim4geo/MIRSAD) |
-| **Z EARTH** | Windows desktop GIS / 3D globe using WPF, CesiumJS and WebView2; **development preview** | [Source](https://github.com/ahmadibrahim4geo/Z-EARTH) |
-| **GIS Development Skills** | Practical GIS software engineering skills, catalogs, tests and documented agent workflows | [Source](https://github.com/ahmadibrahim4geo/GIS-Development-Skills) · [Website](https://ahmadibrahim4geo.github.io/GIS-Development-Skills/) |
-| **GIS Data Repositories** | Bilingual discovery catalog of open geospatial datasets, satellite imagery and DEM resources | [Source](https://github.com/ahmadibrahim4geo/gis-data-repositories-professional-2026) |
-| **Geological Cross Section Toolbox** | ArcGIS-based geological cross-section workflows | [Source](https://github.com/ahmadibrahim4geo/GeologicalCrossSectionToolbox) |
-| **ArcMap Style Collection** | Cartographic styles and symbol resources, subject to original licenses | [Source](https://github.com/ahmadibrahim4geo/ArcMap-Style-Collection) |
+InfraWizard, ArcMap ArcGIS Desktop, ArcGIS Pro, QGIS, Global Mapper, AutoCAD, Civil 3D, SewerGEMS / StormCAD data preparation, SAS Planet, Microsoft Office Suite, Google Earth Pro, Google Earth Engine, Payazed Menu.
 
-## Technical skills
+### Additional technical skills
 
-| GIS, mapping & earth science | Infrastructure & development |
-| :--- | :--- |
-| ArcGIS Pro · ArcMap · ArcPy · QGIS | InfraWizard · SewerGEMS · StormCAD |
-| Remote Sensing · DEM · Cartography | AutoCAD · Civil 3D · CAD-to-GIS |
-| Spatial analysis · Hydrology · GDAL/PROJ | Python · C#/.NET/WPF · JavaScript · CesiumJS |
-| GeoJSON · KML/KMZ · Geodatabases | SQLite · Desktop tools · GIS QA/QC · Automated testing |
+Adobe Illustrator, Photoshop, and InDesign.
 
-## CV, selected work and collaboration
+## Software and tools I developed with AI assistance
 
-**[Explore the complete bilingual portfolio](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/)** for detailed project experience, academic work, publications, professional training and the current publicly published CV.
+| Project | Description | Link |
+| --- | --- | --- |
+| MIRSAD | ArcMap and ArcGIS Pro toolboxes for station selection, climate indicators, spatial interpolation and atlas outputs. Includes 19 climate modules and a bilingual Windows desktop development build. Desktop in development. | [GitHub](https://github.com/ahmadibrahim4geo/MIRSAD) |
+| CreateFlowArrow | Flow arrows, invert-based slope calculations, direction and connectivity checks for stormwater, sewer and dewatering networks, with optional correction of reversed pipes. | [GitHub](https://github.com/ahmadibrahim4geo/Create-FlowArrow-Tool) |
+| Geological Cross-Section Toolbox | Automated 2D sections from outcrops, faults and local or online elevation data. Supports batch processing and geodatabase, DXF, HTML and tabular outputs. | [GitHub](https://github.com/ahmadibrahim4geo/GeologicalCrossSectionToolbox) |
+| GeoVision | Local vector and raster viewing for Shapefile, GeoJSON, KML, GeoPackage and GeoTIFF, with Arabic and English interfaces and offline data workflows. | [GitHub](https://github.com/ahmadibrahim4geo/GeoVision) |
+| Storm Drainage Calculation Dashboard | IDF relationships, SCS Curve Number runoff, design rainfall distributions and Rational Method peak discharge, with charts, CSV export and printable reports. | [GitHub](https://github.com/ahmadibrahim4geo/Storm_Drainage_Calculation_dashboard) |
+| GIS Style Collection | A curated collection across 27 categories, with bilingual search, Arabic style variants and translation scripts for geology, hydrology, soils, land use and infrastructure. | [GitHub](https://github.com/ahmadibrahim4geo/GIS-Style-Collection) |
+| GIS Data Repositories Professional 2026 | A catalog of 2,660+ GIS data sources with bilingual search, category filters, source-link audits, a map explorer and structured exports. | [GitHub](https://github.com/ahmadibrahim4geo/gis-data-repositories-professional-2026) |
+| GIS Development Skills | A bilingual skill suite covering GIS development, spatial pipelines and API integrations, with specialist routing, reproducible examples and evidence-based verification. | [GitHub](https://github.com/ahmadibrahim4geo/GIS-Development-Skills) |
+| Z EARTH | A Windows GIS development project for KML/KMZ, Places and Layers management and 2D/3D mapping. Source and a portable preview are available; stabilization remains in progress. In development. | [GitHub](https://github.com/ahmadibrahim4geo/Z-EARTH) |
+| Atlas of Egyptian Curriculums Maps App | A maps application developed for Egyptian curriculum atlas and map workflows. Local project · no repository link. | Local project |
+| SmartCalculator | Complex numbers, statistics, equation solving, matrices, vectors, number-base conversion and function tables, with compact mode and persistent preferences. | [GitHub](https://github.com/ahmadibrahim4geo/SmartCalculator) |
+| SmartPhotoOrganizer | EXIF/GPS metadata review, duplicate detection, image-quality assessment, bulk renaming, map browsing and CSV/PDF reporting. | [GitHub](https://github.com/ahmadibrahim4geo/SmartPhotoOrganizer) |
+| RoboTransfer | Copy, update, mirror and move workflows, with dry-run previews, live progress, transfer summaries and Unicode logs. | [GitHub](https://github.com/ahmadibrahim4geo/RoboTransfer) |
+| DropAndCopy | Drag-and-drop file collection, copy and move operations, automatic conflict renaming, optional folder-structure preservation and progress tracking. | [GitHub](https://github.com/ahmadibrahim4geo/DropAndCopy) |
+| Charge Alert | Configurable charge-target alerts, background monitoring, Arabic and English interfaces and selectable charging designs. | [GitHub](https://github.com/ahmadibrahim4geo/ChargeAlert) |
+| FitraShield | Local content filtering, custom block and allow lists, parental reporting and a Windows helper for browser-policy integration. | [GitHub](https://github.com/ahmadibrahim4geo/FitraShield) |
+| Ahmad Ibrahim Portfolio | A responsive English and Arabic portfolio presenting infrastructure projects, registered atlases, publications, professional capabilities and software repositories. | [GitHub](https://github.com/ahmadibrahim4geo/ahmadibrahim4geo) |
 
-[**Open CV in browser (PDF)**](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [**CV file in portfolio repository**](https://github.com/ahmadibrahim4geo/AhmadIbrahim.Portfolio_Preview/blob/main/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [**Contact by email**](mailto:ahmadibrahim.geo@gmail.com)
+### AI-assisted programming technologies
 
-Other utilities: [RoboTransfer](https://github.com/ahmadibrahim4geo/RoboTransfer) · [SmartCalculator](https://github.com/ahmadibrahim4geo/SmartCalculator) · [Storm Drainage Calculation Dashboard](https://github.com/ahmadibrahim4geo/Storm_Drainage_Calculation_dashboard).
+Python / ArcPy · C# / .NET / WPF · Kotlin / Jetpack Compose · JavaScript / HTML / CSS · Git/GitHub · Desktop installers · GIS data services.
 
-I welcome research collaborations, reproducible bug reports and contributions. Check individual repositories for their **license**, **release status** and **dependency requirements**. Development previews and third-party geospatial assets may have additional restrictions.
+## Projects, publications and training
 
----
+[Infrastructure projects](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/#projects) · [Experience](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/#experience) · [Six registered geographic atlases](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/#publications) · [Courses grouped by issuer](https://ahmadibrahim4geo.github.io/ahmadibrahim4geo/#certificates)
 
-<div align="center">
+## Contact
 
-**Ahmad Ibrahim · أحمد إبراهيم**
+[Email](mailto:ahmadibrahim.geo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ahmadibrahim4geo/) · [GitHub](https://github.com/ahmadibrahim4geo)
 
-[Portfolio](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/) · [View CV](https://ahmadibrahim4geo.github.io/AhmadIbrahim.Portfolio_Preview/assets/Ahmad_Ibrahim_CV_Final_Improved.pdf) · [LinkedIn](https://www.linkedin.com/in/ahmadibrahim4geo/) · [النسخة العربية](README.ar.md)
-
-</div>
+[Website maintenance and asset documentation](PORTFOLIO.md)

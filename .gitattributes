@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+# Preserve original logo, license, vendor and CV asset bytes during migration.
+assets/** -text
